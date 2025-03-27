@@ -8,7 +8,6 @@ dates:
 description: "Chapter 8: Global Marketing"
 ---
 
-
 <div>
   <style class="zebra-striped-list-box">
     .pagebreak {

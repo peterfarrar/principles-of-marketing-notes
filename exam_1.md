@@ -4,7 +4,7 @@ section: ""
 title: "Exam Study Guide One"
 author: "Peter Farrar"
 dates:
-  published: "2/27/2025"
+  published: "3/3/2025"
 description: "Exam 1: Study Guide"
 ---
 <div>
@@ -272,7 +272,7 @@ A marketing strategy is a long-term plan that outlines how a business will attra
 Operational planning is the process of defining the specific actions, resources, and timelines needed to achieve an organization's strategic goals. It focuses on the short-term execution of tasks and ensures that daily operations align with the broader business strategy.  
 
 #### Monitor and adapt
-THe final step in the marketing planning process involves tracking performance, collecting feedback, and making necessary adjustments to improve the strategy. Businesses monitor key performance indicators (KPIs) such as sales, website traffic, engagement rates, and customer feedback to assess whether the marketing efforts are achieving their goals  
+The final step in the marketing planning process involves tracking performance, collecting feedback, and making necessary adjustments to improve the strategy. Businesses monitor key performance indicators (KPIs) such as sales, website traffic, engagement rates, and customer feedback to assess whether the marketing efforts are achieving their goals  
 
 ## Chapter 3: The Marketing Environment, Ethics, and Social Responsibility
 ### The External Marketing Environment
@@ -286,10 +286,10 @@ The actions of competitors, market trends, industry dynamics, and competitive st
 Government policies, regulations, trade laws, taxation, and political stability can affect how businesses operate, market, and expand.  
 
 #### Economic
-hese include economic conditions such as inflation, interest rates, exchange rates, consumer purchasing power, and overall economic growth, which can affect consumer spending and business operations.  
+These include economic conditions such as inflation, interest rates, exchange rates, consumer purchasing power, and overall economic growth, which can affect consumer spending and business operations.  
 
 #### Technological
-his includes advancements in technology, innovation, automation, and digital transformation that can impact product development, marketing strategies, and competitive advantages.  
+This includes advancements in technology, innovation, automation, and digital transformation that can impact product development, marketing strategies, and competitive advantages.  
 
 #### Social-cultural
 These involve societal trends, demographics, cultural attitudes, and lifestyle changes that influence consumer behavior and demand for products or services.  
@@ -393,7 +393,7 @@ These dimensions can impact and influence each-other. For example socio-cultural
 <div class="pagebreak">
 
 #### Global Reach
-The internet allows smaller businesses, that might have once been limmited to being local, to reach customers across the globe. It also allows independent agents to organize communities to support their activities without the same overhead (cost and management).  
+The internet allows smaller businesses, that might have once been limited to being local, to reach customers across the globe. It also allows independent agents to organize communities to support their activities without the same overhead (cost and management).  
 
 #### Personalization
 Web pages and marketing campaigns can use data collected through various sources, including their own interactions, to customize experiences to individual consumers.  
