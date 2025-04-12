@@ -66,8 +66,11 @@ description: "Exam 1: Study Guide"
 </div>
 
 # Study guide for Principles of Marketing, exam 1.
+
 ## Chapter 1: Marketing: The Art and Science of Satisfying Customers
+
 ### Four Types of Utility
+
 **Form utility**: Combining materials (could be minerals, computer chips, people, services, etc.) together to create a product.  
 
 **Time utility**: Making products available when the consumer wants them.  

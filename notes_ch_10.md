@@ -86,7 +86,6 @@ description: "Chapter 10: Market Research"
 </div>
 
 # Chapter 10: Market Research
-"Describe the six steps in the marketing research process."  
 
 ## Learning Objectives
 * Describe the six steps in the marketing research process.
@@ -193,7 +192,7 @@ Observation can be controlled or free form. Tracking consumer footsteps in super
 Surveys involve asking consumers questions and gathering their attitudes, motives, opinions, etc. There are several ways to do this:  
 _Telephone interviews_ are quick and low cost. Simply worded questions should be used.  
 _Personal interviews_ allows the marketer to establish a repport with the consumer, and to clarify any misunderstandings of the questions asked. This could be in an office, home, or public space.  
-_Focus Groups birng small groups together to discuss a subject.They encourage general discussion on the topic. These are great for developing new product ideas and trying out new marketing strategies.  
+_Focus Groups_ bring small groups together to discuss a subject.They encourage general discussion on the topic. These are great for developing new product ideas and trying out new marketing strategies.  
 _Online or mail surveys_ are efficient and cost-effective. Anonymity might influence the honesty of the responses.  
 Online services like Survey Monkey have made survey based research readily available for organizations of all sizes.  
 
